@@ -8,6 +8,7 @@ public class GitProje02 {
 		System.out.println("Master'den yeni bir commit");
 		System.out.println("Yeni olusturulan branch'den commit");
 		System.out.println("Master'den conflict bir commit");
+		System.out.println("Ekremden bir commit daha ekrem branch'a");
 
 
 	}
